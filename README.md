@@ -1,5 +1,4 @@
-# Project-1
-This repository stores the files and folders for team 3
+# Deaths by Drug Overdose and Potential Contributing Factors
 
 Project Title: Deaths by Drug Overdose and Potential Contributing Factors
 
